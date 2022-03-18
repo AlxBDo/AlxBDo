@@ -11,13 +11,13 @@ Mes expériences passées m'ont permis, d'acquérir de solides compétences en c
 équipe, sur site et à distance. Habitué aux challenges, je m'adapte facilement à mon environnement et m'intègre rapidement dans une équipe.
 
 
-## Compétences 
+## Compétences
 
 ### Languages 
 
 ![javascript](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=https://github.com/AlxBDo/BidaudAlexandre_14_08022022/tree/main/img/javascript.svg)
 
-
+ 
 ### Outils 
 
 ![docker](https://badgen.net//badge/icon/docker?icon=docker&label)
