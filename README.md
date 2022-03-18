@@ -15,14 +15,13 @@ Mes expériences passées m'ont permis, d'acquérir de solides compétences en c
 
 ### Languages 
 
-
-![css3](https://img.shields.io/badge/css3--lightgrey?style=for-the-badge&logo=https://github.com/AlxBDo/AlxBDo/blob/main/img/css3.svg) 
-![javascript](https://img.shields.io/badge/javascript--lightgrey?style=for-the-badge&logo=https://github.com/AlxBDo/AlxBDo/blob/main/img/javascript.svg)
+<img src="./img/css3.svg" alt="Css3" title="Css3"/>&nbsp;&nbsp; 
+<img src="./img/javascript.svg" alt="Javascript" title="Javascript"/>&nbsp;&nbsp;
 
  
 ### Outils 
 
-![docker](https://badgen.net//badge/icon/docker?icon=docker&label)
+<img src="./img/docker.svg" alt="Docker" title="Docker"/>&nbsp;&nbsp;
 
 
 
