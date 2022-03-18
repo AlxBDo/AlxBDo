@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Bonjour 
 
-Je m'appelle Alexandre Bidaud, j'ai 42 ans, je suis marié et l'heureux papa de 2 enfants. 
+Je m'appelle Alexandre Bidaud, j'habite La Roche-sur-Yon (à 80km  de Nantes), je suis marié et l'heureux papa de 2 enfants. 
 
 Aimant relever de nouveau défi, je "profite" d'un licenciement économique pour me reconvertir dans le domaine du développement web 
 et faire d'une de mes passions mon métier.
@@ -11,9 +11,22 @@ Mes expériences passées m'ont permis, d'acquérir de solides compétences en c
 équipe, sur site et à distance. Habitué aux challenges, je m'adapte facilement à mon environnement et m'intègre rapidement dans une équipe.
 
 
+## Compétences 
+
+### Languages 
+
+![javascript](https://img.shields.io/badge/linkedin--lightgrey?style=social&logo=https://github.com/AlxBDo/BidaudAlexandre_14_08022022/tree/main/img/javascript.svg)
+
+
+### Outils 
+
+![docker](https://badgen.net//badge/icon/docker?icon=docker&label)
+
+
+
 ### 🔭 Je recherche 
 
-Je recherche un emploi de développeur web Front-End me permettant de perfectionner mes connaisances de React, React-Redux, Sass, Styled Components et 
+Je recherche un emploi de développeur Front-End me permettant de perfectionner mes connaisances de React, React-Redux, Sass, Styled Components et 
 des tests (Jest et Cypress). 
 
 Dans l'idéal, je souhaite également continuer à pratiquer PHP et MySql, et surtout... Découvrir de nouvelles technologies.
