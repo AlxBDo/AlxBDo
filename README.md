@@ -1,13 +1,10 @@
 ## 🙋‍♂️ Bonjour 
 
-Je m'appelle Alexandre Bidaud, j'habite La Roche-sur-Yon (à 80km  de Nantes), je suis marié et l'heureux papa de 2 enfants. 
+Je m'appelle Alexandre Bidaud et j'habite à La Roche-sur-Yon (à 80km au sud de Nantes). 
 
-Aimant relever de nouveau défi, je "profite" d'un licenciement économique pour me reconvertir dans le domaine du développement web 
-et faire d'une de mes passions mon métier. Mes expériences passées m'ont permis, d'acquérir de solides compétences en communication et organisation, de travailler seul et en équipe, sur site et à distance. Habitué aux challenges, je m'adapte facilement à mon environnement et m'intègre rapidement dans une équipe. 
+Je viens de terminer une formation de Développeur Front-End / React, dispensée par Open Classroom et suis en attente de la délibération du jury (résultats prévus pour fin avril). Vous trouverez sur ce profil les repos des projets effectués dans le cadre de cette formation.
 
-Actuellement, je termine une formation de Développeur Front-End / React, dispensée par Open Classroom.
-
-Vous trouverez sur ce profil les repos des projets effectués dans le cadre de cette formation.
+Aimant relever de nouveau défi, j'ai "profité" d'un licenciement économique pour me reconvertir dans le domaine du développement web et faire d'une de mes passions mon métier. Mes expériences passées m'ont permis, d'acquérir de solides compétences en communication et organisation, de travailler seul et en équipe, sur site et à distance. Habitué aux challenges, je m'adapte facilement à mon environnement et m'intègre rapidement au sein d'une équipe. 
 
 
 ## 📑Compétences
